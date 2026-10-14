@@ -10,7 +10,7 @@ Une commande installe tout ce qu'il faut pour utiliser une Surface Pro 6 en tabl
 - le démarrage automatique sur le noyau Surface ;
 - la mise en veille : verrouillage après 2 min, écran éteint 30 s après le verrouillage.
 
-## Avant de lancer (à faire à la main)
+## Pré-requis
 
 1. **Omarchy 4** est installé et ta session est ouverte.
 2. Tablette **sur secteur**, **connectée au Wi-Fi**, **Type Cover attaché**.
