@@ -12,9 +12,8 @@ Une commande installe tout ce qu'il faut pour utiliser une Surface Pro 6 en tabl
 
 ## Avant de lancer (à faire à la main)
 
-1. **Désactive Secure Boot** : tablette éteinte, maintiens Volume + puis appuie sur Power, puis Security, Secure Boot, Disabled.
-2. **Omarchy 4** est installé et ta session est ouverte.
-3. Tablette **sur secteur**, **connectée au Wi-Fi**, **Type Cover attaché**.
+1. **Omarchy 4** est installé et ta session est ouverte.
+2. Tablette **sur secteur**, **connectée au Wi-Fi**, **Type Cover attaché**.
 
 ## Installation
 
